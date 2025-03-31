@@ -1,0 +1,137 @@
+<style>
+
+.trendy_counters:after {
+
+clear: both;
+
+content: '';
+
+display: block;
+
+}
+
+.trendy_counters ul {
+
+list-style: none;
+
+margin: 0;
+
+padding: 0;
+
+clear: both;
+
+}
+
+.trendy_counters ul li {
+
+text-align: center;
+
+background: #f9f9f9;
+
+}
+
+.trendy_counters ul li a {
+
+padding: 10px;
+
+text-decoration:none;
+
+}
+
+.trendy-counters-per-row-2 ul li {
+
+width: 50%;
+
+float: left;
+
+}
+
+.trendy-counters-per-row-3 ul li {
+
+width: 33.333%;
+
+float: left;
+
+}
+
+.trendy-counters-per-row-4 ul li {
+
+width: 25%;
+
+float: left;
+
+}
+
+.sc_vertical a, .sc_vertical span:not(.fa) {
+
+display: block;
+
+text-align: center
+
+}
+
+.sc_horizontal a {
+
+display: flex;
+
+text-align: center;
+
+align-items: center;
+
+justify-content: center;
+
+}
+
+.sc_horizontal span {
+
+margin-right: 3px;
+
+}
+
+.show-labels-No .label {
+
+display: none !important;
+
+}
+
+.trendy-counters-icons-order {
+
+padding: 10px;
+
+background: #f6f6f6;
+
+}
+
+.trendy-counters-icons-order div {
+
+background: #eaeaea;
+
+display: inline-block;
+
+margin-right: 5px;
+
+padding: 10px;
+
+}
+
+.trendy-counters-icons-order div:hover {
+
+cursor: move;
+
+}
+
+.trendy_counters ul li {
+
+text-align: center;
+
+background: #f9f9f9;
+
+width: 33%;
+
+float: left;
+
+padding: 0;
+
+}
+
+</style>
